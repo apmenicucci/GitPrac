@@ -16,9 +16,9 @@ public class FirstProgram {
         //Functions have their own curly braces
         //System.out.print vs System.out.println: ln means line, so they won't print "hellohello", and instead "hello (new line) hello"
 
-        System.out.println(x:"hello");
-        System.out.print(s:"hello");
-        System.out.print(s:"hello");
+        System.out.println("hello");
+        System.out.print("hello");
+        System.out.print("hello");
     }
     public int test(){
         return 5;
